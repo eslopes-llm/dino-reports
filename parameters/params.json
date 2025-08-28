@@ -1,0 +1,20 @@
+// Default values
+{
+  "ThinkingTokens": 0,
+  "ReasoningEffort": "medium",
+  "PromptCaching": false,
+  "Seed": null,
+  "LLMStreaming": true,
+  "Temperature": 0.7,
+  "TopK": 40,
+  "TopP": 0.9,
+  "StopSequence": [],
+  "JSONMode": false,
+  "PresencePenalty": 0.0,
+  "StructuredOutputs": false,
+  "FunctionCalling": false,
+  "Logprobs": null,
+  "FrequencyPenalty": 0.0,
+  "MaxTokens": 2048,
+  "LogitBias": {}
+}
